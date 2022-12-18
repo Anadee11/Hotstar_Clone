@@ -50,7 +50,8 @@ z-index: -1;
 background-position: top;
 background-size: cover;
 background-repeat: no-repeat;
-background-image: url('/images/login-background.jpg');
+background-image: url('/images/login-background2.jpg');
+opacity: 40%;
 `;
 
 const Cta = styled.div`
